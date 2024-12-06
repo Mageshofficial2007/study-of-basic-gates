@@ -86,6 +86,8 @@ TRUTH TABLE:
 **RTL**
 
 **Result:**
+
+
 ![Screenshot 2024-12-06 114658](https://github.com/user-attachments/assets/1f73dc27-3055-4a33-9d75-18ad650677a6)
 
 
